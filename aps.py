@@ -368,3 +368,5 @@ button_daily_average_graph.pack()
 button_daily_average_graph.config(bg='#FFD700')
 obter_e_analisar_noticias_xml(xml_file_path)
 root.mainloop()
+
+#teste
